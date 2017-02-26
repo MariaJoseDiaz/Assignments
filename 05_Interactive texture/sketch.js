@@ -12,10 +12,6 @@ function draw() {
 
   for (var x = 10; x < 950; x += 10) {
     for (var y = 25; y < 950; y += 25) {
-
-     //  index = floor(random() * colorList.length);
-      // colorHex = colorList[index];
-    //  fill(color(colorHex));
     
       var whichBar = mouseX / barWidth;
   if (whichBar != lastBar) {
