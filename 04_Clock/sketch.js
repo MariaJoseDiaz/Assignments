@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-  background(255)
+  background("#6d6a6a");
   translate(width/2,height/2);
   
   
