@@ -3,8 +3,8 @@ a:hover {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
-    color: #ed225d;
+    font-family: 'Open Sans', bold;
+    color: #bc327c;
     font-weight: 900;
     letter-spacing: 10px;
     font-size: 40px;
@@ -14,10 +14,9 @@ body {
 }
 
 p {
-    color: #fff;
-    font-family: 'Open Sans', serif;
+    color: #b2437f;
+    font-family: 'Open Sans', Regular Italic;
     font-size: 24px;
-    font-style: italic;
 }
 
 p a:hover {
