@@ -11,7 +11,7 @@ function setup() {
 function draw() {
 
   for (var x = 10; x < 950; x += 10) {
-    for (var y = 25; y < 950; y += 25) {
+    for (var y = 25; y < 650; y += 25) {
     
       var whichBar = mouseX / barWidth;
   if (whichBar != lastBar) {
