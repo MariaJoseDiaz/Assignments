@@ -4,14 +4,14 @@ var lastBar = -1;
 
 
 function setup() {
-  createCanvas(900, 600)
+  createCanvas(900, 400)
 
 }
 
 function draw() {
 
   for (var x = 10; x < 950; x += 10) {
-    for (var y = 25; y < 650; y += 25) {
+    for (var y = 25; y < 450; y += 25) {
     
       var whichBar = mouseX / barWidth;
   if (whichBar != lastBar) {
