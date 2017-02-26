@@ -3,7 +3,7 @@ function setup() {
   noFill()
   angleMode(DEGREES)
   frameRate(12)
-  background(40)
+  background(200)
 }
 
 function draw() {
