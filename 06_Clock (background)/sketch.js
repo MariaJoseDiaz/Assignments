@@ -6,7 +6,7 @@ function preload(){
 }
 
 function setup() {
-    createCanvas(width,height);
+    createCanvas(900,600);
  myImage.filter("gray");
     fondo = color(204);
     frameRate(2)
