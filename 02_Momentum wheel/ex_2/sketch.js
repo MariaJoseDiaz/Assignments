@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(800, 600)
+  createCanvas(900, 600)
   noFill()
   angleMode(DEGREES)
   frameRate(12)
