@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
- background(200);
+ background("#6d6a6a");
  
  //Neck
  stroke(100);
